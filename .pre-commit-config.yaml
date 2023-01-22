@@ -11,6 +11,7 @@ repos:
     -   id: debug-statements
     -   id: requirements-txt-fixer
 
+
 # Auto formats the Python Code
 -   repo: https://github.com/psf/black
     rev: 22.3.0

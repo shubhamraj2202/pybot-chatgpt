@@ -1,5 +1,5 @@
-![build](https://github.com/shubhamraj2202/pyhelper/actions/workflows/github-actions.yml/badge.svg?event=push)
-[![codecov](https://codecov.io/gh/shubhamraj2202/pyhelper/branch/main/graph/badge.svg?token=X9KIXXBOAV)](https://codecov.io/gh/shubhamraj2202/pyhelper)
+![build](https://github.com/shubhamraj2202/pybot-chatgpt/actions/workflows/github-actions.yml/badge.svg?event=push)
+[![codecov](https://codecov.io/gh/shubhamraj2202/pybot-chatgpt/branch/main/graph/badge.svg?token=X9KIXXBOAV)](https://codecov.io/gh/shubhamraj2202/pybot-chatgpt)
 # PYBOT-ChatGPT
 Python Bot which wraps ChatGPT API
 
@@ -16,4 +16,4 @@ Python Bot which wraps ChatGPT API
     `source setup.sh`
 
 # Uploaded On:
-https://pypi.org/project/pyhelper-misc/
+https://pypi.org/project/pybot-chatgpt/
