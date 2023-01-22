@@ -10,5 +10,7 @@ python3 -m pipenv sync -d
 python3 -m pipenv run pre-commit install
 # Setup CI Test Requirements
 python3 -m pipenv requirements --dev > .github/workflows/ci-test-requirements.txt
+# Export Token
+source ~/.secrets
 # Enter Shell
 python3 -m pipenv shell

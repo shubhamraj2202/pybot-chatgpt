@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-
+openai = "*"
 
 [dev-packages]
 pytest = "*"
@@ -13,3 +13,4 @@ isort = "*"
 pre-commit = "*"
 pytest-cov = "*"
 codecov = "*"
+mock = "*"
